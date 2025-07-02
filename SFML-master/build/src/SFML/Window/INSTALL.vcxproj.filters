@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\hoonf\OneDrive\Documents\ECE_6122\Lab5\SFML-master\build\CMakeFiles\9e1eae0b881c6da146f1152ededecaa0\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7CF79096-5831-35E4-9886-321F88FA5C04}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
